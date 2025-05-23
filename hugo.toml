@@ -1,0 +1,38 @@
+baseURL = 'https://tapmapapp.org/'
+languageCode = 'en-us'
+title = 'Tap Map'
+theme = 'ananke'
+
+[params]
+    buildYear = 2025
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/index/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "faq"
+  name = "FAQ"
+  url = "/faq/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "support"
+  name = "Support"
+  url = "/support/"
+  weight = 3
+
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "eula"
+  name = "EULA"
+  url = "/EULA/"
+  weight = 5

@@ -17,7 +17,7 @@ Anyone can have access. We reserve the right to stop accepting new beta users if
 *TestFlight* helps developers distributing and managing their beta application. For more details, please check [https://testflight.apple.com](https://testflight.apple.com)
 
 
-## General Flyrt FAQ
+## General FAQ
 
 ### When will Tap Map release?
 Tap Map is currently in closed Beta, while the beta is doing great, we will release our official version once we and our beta users are fully satisfied with the application.
@@ -34,8 +34,8 @@ Currently we support only iOS and iPad OS. It runs great on both platform.
 ### When will Android OS be supported?
 This is not known at this time, what is known is that we will first focus on making the Apple platform application awesome before we extend to other platforms.
 
-### Does Flyrt supports Dark Mode?
-Yes, Flyrt looks great with Dark Mode.
+### Does the app supports Dark Mode?
+Yes, Tap Map looks great with Dark Mode.
 
 ### What language does Tap Map support?
 Tap Map today focuses on English (US), English (UK) and French(FR). Additional languages will be added at a later time. Contact our support team if you want to volunteer to translate it into your preferred languages.

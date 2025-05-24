@@ -9,7 +9,7 @@ theme = 'ananke'
 [[menu.main]]
   identifier = "home"
   name = "Home"
-  url = "/index/"
+  url = "/"
   weight = 1
 
 [[menu.main]]

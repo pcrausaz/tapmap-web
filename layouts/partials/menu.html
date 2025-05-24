@@ -1,0 +1,7 @@
+{{ if .Site.IsMultiLingual }}
+    <ul>
+        {{ range .Site.Languages }}
+            <li><a href="{{ .Lang | relURL }}">{{ .LanguageName }}</a></li>
+        {{ end }}
+    </ul>
+{{ end }}

@@ -2,14 +2,29 @@ baseURL = 'https://tapmapapp.org/'
 languageCode = 'en-us'
 title = 'Tap Map'
 theme = 'ananke'
+defaultContentLanguage = "fr-FR"
 
 [params]
     buildYear = 2025
 
+[languages]
+  [languages.en-US]
+    contentDir = 'content/en-US'
+    languageName = 'English (US) <span style="font-size:20px;">🇺🇸</span>'
+    weight = 10
+  [languages.en-GB]
+    contentDir = 'content/en-GB'
+    languageName = 'English (GB) <span style="font-size:20px;">🇬🇧</span>'
+    weight = 20
+  [languages.fr-FR]
+    contentDir = 'content/fr-FR'
+    languageName = 'Français (FR) <span style="font-size:20px;">🇫🇷</span>'
+    weight = 30
+
 [[menu.main]]
   identifier = "home"
   name = "Home"
-  url = "/index/"
+  url = "/"
   weight = 1
 
 [[menu.main]]

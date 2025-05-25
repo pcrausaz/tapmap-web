@@ -29,7 +29,7 @@ defaultContentLanguage = "en-us"
 [[languages.en-US.menu.main]]
   identifier = "home"
   name = "Home"
-  url = "/en-US"
+  url = "/"
   weight = 1
 
 [[languages.en-GB.menu.main]]
@@ -47,7 +47,7 @@ defaultContentLanguage = "en-us"
 [[languages.en-US.menu.main]]
   identifier = "faq"
   name = "FAQ"
-  url = "/en-US/faq"
+  url = "/faq"
   weight = 2
 
 [[languages.en-GB.menu.main]]
@@ -66,7 +66,7 @@ defaultContentLanguage = "en-us"
 [[languages.en-US.menu.main]]
   identifier = "support"
   name = "Support"
-  url = "/en-US/support"
+  url = "/support"
   weight = 3
 
 [[languages.en-GB.menu.main]]
@@ -84,7 +84,7 @@ defaultContentLanguage = "en-us"
 [[languages.en-US.menu.main]]
   identifier = "privacy"
   name = "Privacy"
-  url = "/en-US/privacy"
+  url = "/privacy"
   weight = 4
 
 [[languages.en-GB.menu.main]]
@@ -102,7 +102,7 @@ defaultContentLanguage = "en-us"
 [[languages.en-US.menu.main]]
   identifier = "eula"
   name = "EULA"
-  url = "/en-US/eula"
+  url = "/eula"
   weight = 5
 
 [[languages.en-GB.menu.main]]

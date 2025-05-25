@@ -2,7 +2,7 @@ baseURL = 'https://tapmapapp.org/'
 languageCode = 'en-us'
 title = 'Tap Map'
 theme = 'ananke'
-defaultContentLanguage = "fr-FR"
+defaultContentLanguage = "en-us"
 
 [params]
     buildYear = 2025
@@ -10,46 +10,111 @@ defaultContentLanguage = "fr-FR"
 [languages]
   [languages.en-US]
     contentDir = 'content/en-US'
-    languageName = 'English (US) <span style="font-size:20px;">🇺🇸</span>'
     weight = 10
+      [languages.en-US.params]
+        languageName = '🇺🇸'
   [languages.en-GB]
     contentDir = 'content/en-GB'
-    languageName = 'English (GB) <span style="font-size:20px;">🇬🇧</span>'
     weight = 20
+      [languages.en-GB.params]
+        languageName = '🇬🇧'
   [languages.fr-FR]
     contentDir = 'content/fr-FR'
-    languageName = 'Français (FR) <span style="font-size:20px;">🇫🇷</span>'
     weight = 30
+      [languages.fr-FR.params]
+        languageName = '🇫🇷'
 
-[[menu.main]]
+
+
+[[languages.en-US.menu.main]]
   identifier = "home"
   name = "Home"
-  url = "/"
+  url = "/en-US"
   weight = 1
 
-[[menu.main]]
+[[languages.en-GB.menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/en-GB"
+  weight = 1
+
+[[languages.fr-FR.menu.main]]
+  identifier = "home"
+  name = "Acceuil"
+  url = "/fr-FR"
+  weight = 1
+
+[[languages.en-US.menu.main]]
   identifier = "faq"
   name = "FAQ"
-  url = "/faq/"
+  url = "/en-US/faq"
   weight = 2
 
-[[menu.main]]
+[[languages.en-GB.menu.main]]
+  identifier = "faq"
+  name = "FAQ"
+  url = "/en-GB/faq"
+  weight = 2
+
+[[languages.fr-FR.menu.main]]
+  identifier = "faq"
+  name = "FAQ"
+  url = "/fr-FR/FAQ"
+  weight = 2
+
+
+[[languages.en-US.menu.main]]
   identifier = "support"
   name = "Support"
-  url = "/support/"
+  url = "/en-US/support"
   weight = 3
 
+[[languages.en-GB.menu.main]]
+  identifier = "support"
+  name = "Support"
+  url = "/en-GB/support"
+  weight = 3
 
-[[menu.main]]
+[[languages.fr-FR.menu.main]]
+  identifier = "support"
+  name = "Assistance"
+  url = "/fr-FR/support"
+  weight = 3
+
+[[languages.en-US.menu.main]]
   identifier = "privacy"
   name = "Privacy"
-  url = "/privacy/"
+  url = "/en-US/privacy"
   weight = 4
 
-[[menu.main]]
+[[languages.en-GB.menu.main]]
+  identifier = "privacy"
+  name = "Privacy"
+  url = "/en-GB/privacy/"
+  weight = 4
+
+[[languages.fr-FR.menu.main]]
+  identifier = "privacy"
+  name = "Confidentialité"
+  url = "/fr-fr/privacy"
+  weight = 4
+
+[[languages.en-US.menu.main]]
   identifier = "eula"
   name = "EULA"
-  url = "/EULA/"
+  url = "/en-US/eula"
+  weight = 5
+
+[[languages.en-GB.menu.main]]
+  identifier = "eula"
+  name = "EULA"
+  url = "/en-GB/eula"
+  weight = 5
+
+[[languages.fr-FR.menu.main]]
+  identifier = "eula"
+  name = "CLUF"
+  url = "/fr-FR/eula"
   weight = 5
 
 [caches]

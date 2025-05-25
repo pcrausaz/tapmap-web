@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on Tap Map</title>
+    <title>Home on Tap Map</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Accueil on Tap Map</description>
+    <description>Recent content in Home on Tap Map</description>
     <generator>Hugo</generator>
-    <language>fr-fr</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 22 May 2025 21:48:43 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CLUF</title>
+      <title>EULA</title>
       <link>http://localhost:1313/eula/</link>
       <pubDate>Thu, 22 May 2025 21:48:43 -0500</pubDate>
       <guid>http://localhost:1313/eula/</guid>
-      <description>&lt;p&gt;Le présent Contrat de Licence Utilisateur Final (le « Contrat ») constitue un accord juridique entre vous (l&amp;rsquo;« Utilisateur ») et tapmapapp.org (les « Concédants »), collectivement désignés par « nous », « notre » ou « nos ». En téléchargeant, en utilisant ou en accédant à l&amp;rsquo;application iOS Tap Map (l&amp;rsquo;« Application Tap Map »), vous acceptez d&amp;rsquo;être lié par les termes du présent Contrat.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-octroi-de-licence&#34;&gt;1. Octroi de Licence&lt;/h2&gt;&#xA;&lt;p&gt;Nous vous accordons une licence limitée, non exclusive, non transférable et révocable pour utiliser l&amp;rsquo;Application Tap Map à des fins personnelles et non commerciales sur tout appareil Apple que vous possédez ou contrôlez, sous réserve des Conditions d&amp;rsquo;Utilisation de l&amp;rsquo;App Store.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This End User License Agreement (“Agreement”) is a legal agreement between you (“User”) and tapmapapp.org  (“Licensors”), collectively referred to as “we,” “us,” or “our.” By downloading, accessing, or using the Tap Map iOS application (the “Tap Map App”), you agree to be bound by the terms of this Agreement.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-license-grant&#34;&gt;1. License Grant&lt;/h2&gt;&#xA;&lt;p&gt;We grant you a limited, non-exclusive, non-transferable, revocable license to use the Tap Map App for personal, non-commercial purposes on any Apple device that you own or control, subject to the App Store Terms of Service.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Confidentialité</title>
+      <title>Privacy</title>
       <link>http://localhost:1313/privacy/</link>
       <pubDate>Thu, 22 May 2025 21:48:32 -0500</pubDate>
       <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;Bienvenue sur &lt;em&gt;Tap Map&lt;/em&gt;, exploité par &lt;a href=&#34;http://tapmapapp.org&#34;&gt;&lt;strong&gt;tapmapapp.org&lt;/strong&gt;&lt;/a&gt;. Confidentialité est importante pour nous.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-informations-collectées&#34;&gt;1. Informations collectées&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Données d&amp;rsquo;authentification&lt;/strong&gt; : Nom d&amp;rsquo;utilisateur, adresse e-mail et mot de passe pour la création et l&amp;rsquo;authentification du compte.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Données de localisation&lt;/strong&gt; : Nous collectons les informations de localisation du lieu que vous créez. Nous utilisons votre localisation pour vous localiser et vous guider jusqu&amp;rsquo;à votre prochain verre. Nous ne conservons aucune information de localisation concernant les utilisateurs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-utilisation-de-vos-informations&#34;&gt;2. Utilisation de vos informations&lt;/h2&gt;&#xA;&lt;p&gt;Nous utilisons les données collectées pour associer les utilisateurs à leurs préférences, leurs projets de voyage et leur localisation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Welcome to &lt;em&gt;Tap Map&lt;/em&gt;, operated by &lt;a href=&#34;http://tapmapapp.org&#34;&gt;&lt;strong&gt;tapmapapp.org&lt;/strong&gt;&lt;/a&gt;. Your privacy is important to us.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-information-we-collect&#34;&gt;1. Information We Collect&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Authentication Data:&lt;/strong&gt; Username, email, and password for account creation and authentication.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Location Data:&lt;/strong&gt; We collect location information for the place your create. We use your location to position and route you to your next drink. We do not store any location information in relation to users.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-how-we-use-your-information&#34;&gt;2. How We Use Your Information&lt;/h2&gt;&#xA;&lt;p&gt;We use the collected data to match users based on their preferences, travel plans, and location.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Assistance</title>
+      <title>Support</title>
       <link>http://localhost:1313/support/</link>
       <pubDate>Thu, 22 May 2025 21:48:21 -0500</pubDate>
       <guid>http://localhost:1313/support/</guid>
-      <description>&lt;p&gt;Pour obtenir de l&amp;rsquo;aide, n&amp;rsquo;hésitez pas à contacter notre équipe d&amp;rsquo;assistance aux coordonnées ci-dessous.&lt;/p&gt;&#xA;&lt;p&gt;Nous vous invitons à consulter notre &lt;a href=&#34;https://tapmapapp.org/faq&#34;&gt;&lt;strong&gt;Foire aux questions (FAQ)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contacter-lassistance&#34;&gt;Contacter l&amp;rsquo;assistance&lt;/h2&gt;&#xA;&lt;p&gt;Pour toute autre question, nous vous invitons à contacter notre équipe d&amp;rsquo;assistance par e-mail à l&amp;rsquo;adresse suivante : &lt;a href=&#34;mailto:support@tapmapapp.org&#34;&gt;&lt;strong&gt;support@tapmapapp.org&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;For assistance, do not hesitate to contact our support team at the information provided below.&#xA;We encourage you to consult our list of &lt;a href=&#34;https://tapmapapp.org/faq&#34;&gt;&lt;strong&gt;Frequently Asked Questions (FAQ)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-support&#34;&gt;Contact Support&lt;/h2&gt;&#xA;&lt;p&gt;For all other questions, we encourage your to contact our &lt;a href=&#34;mailto:support@tapmapapp.org&#34;&gt;&lt;strong&gt;support&lt;/strong&gt;&lt;/a&gt; team via email at: &lt;a href=&#34;mailto:support@tapmapapp.org&#34;&gt;&lt;strong&gt;support@tapmapapp.org&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>FAQ</title>
+      <title>Faq</title>
       <link>http://localhost:1313/faq/</link>
       <pubDate>Thu, 22 May 2025 21:48:13 -0500</pubDate>
       <guid>http://localhost:1313/faq/</guid>
-      <description>&lt;h1 id=&#34;foire-aux-questions-faq&#34;&gt;Foire aux questions (FAQ)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;faq-du-programme-bêta&#34;&gt;FAQ du programme bêta&lt;/h2&gt;&#xA;&lt;h3 id=&#34;quest-ce-que-le-programme-bêta&#34;&gt;Qu&amp;rsquo;est-ce que le programme bêta ?&lt;/h3&gt;&#xA;&lt;p&gt;Le programme bêta permet aux utilisateurs (😉) de tester l&amp;rsquo;application avant sa sortie officielle et de nous faire part de leurs commentaires pour nous aider à l&amp;rsquo;améliorer.&lt;/p&gt;&#xA;&lt;h3 id=&#34;qui-peut-accéder-au-programme-bêta&#34;&gt;Qui peut accéder au programme bêta ?&lt;/h3&gt;&#xA;&lt;p&gt;Tout le monde peut y accéder. Nous nous réservons le droit de ne plus accepter de nouveaux utilisateurs bêta si nécessaire. Contactez l&amp;rsquo;assistance pour vous inscrire sur notre liste d&amp;rsquo;attente &lt;a href=&#34;https://tapmapapp.org/support&#34;&gt;&lt;strong&gt;page d&amp;rsquo;assistance&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;frequently-asked-questions-faq&#34;&gt;Frequently Asked Questions (FAQ)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;beta-program-faq&#34;&gt;Beta Program FAQ&lt;/h2&gt;&#xA;&lt;h3 id=&#34;what-is-the-beta-program&#34;&gt;What is the Beta Program?&lt;/h3&gt;&#xA;&lt;p&gt;The beta program allows friendly (😉)users to test the application before its official release and provide us with feedback to help improve it.&lt;/p&gt;&#xA;&lt;h3 id=&#34;who-can-have-access-to-the-beta-program&#34;&gt;Who can have access to the Beta Program?&lt;/h3&gt;&#xA;&lt;p&gt;Anyone can have access. We reserve the right to stop accepting new beta users if we have the need. Contact support to get into our waiting list &lt;a href=&#34;https://tapmapapp.org/support&#34;&gt;&lt;strong&gt;support page&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

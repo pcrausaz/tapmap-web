@@ -14,23 +14,9 @@ Hey there, beer enthusiasts and bargain hunters! Welcome to our vibrant iOS app 
 
 All about scoring the best beer prices around! This app is your ticket to affordable brews and good times.
 
-<style>
-.app-store-badge {
-    width: 150px; /* Adjust size */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Ensures it appears on its own line */
-    margin: 20px auto; /* Centers the badge */
-}
-</style>
-
-<p style="color: red;"> DOWNLOAD BUTTON NOT AVAILABLE  YET
- <a href="https://testflight.apple.com/join/pBXyCbYv" target="_blank">
-          <img src="/images/app-store-badge.svg" alt="Download Beta on the App Store" class="app-store-badge">
-</a>
-</p>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tapmap" data-color="#05b9ac" data-emoji="🍺"  data-font="Arial" data-text="Buy us a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
-
-
+{{< downloadapp >}}
+{{< betastamp >}}
+{{< buymeacoffee >}}
 
 **Key Features**
 

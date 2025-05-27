@@ -4,30 +4,33 @@ draft = false
 title = 'Accueil'
 +++
 
-
-
-**Salut les économies**
-
-*Trouvez les meilleurs prix sur la bière près de chez vous !*
-
-Salut les amateurs de bière et les chasseurs de bonnes affaires ! Bienvenue sur notre application iOS, conçue pour vous aider à dénicher les meilleures offres de bière en ville. Que vous soyez amateur de bière, économe avisé ou simplement en quête de bons moments, cette application est votre guide idéal.
-
-Tout pour dénicher les meilleurs prix sur la bière ! Cette application vous ouvre les portes de bières abordables et de bons moments.
+## Santé à Tap Map ##
+Salut les amateurs de bière et les chasseurs de bonnes affaires ! Bienvenue sur notre application iOS dynamique, conçue pour vous aider à dénicher les meilleures offres de bière en ville. Que vous soyez amateur de bière, économe avisé ou simplement en quête de bons moments, cette application est votre guide.
 
 {{< downloadapp >}}
 {{< betastamp >}}
 {{< buymeacoffee >}}
 
-**Fonctionnalités principales**
+Les pubs étaient autrefois le pilier social de notre culture et un véritable creuset pour la communauté. Mais ces dernières années, beaucoup d'entre eux se sont vus imposer des prix exorbitants pour accéder à leur bar local.
 
-**Découvrez et contribuez** :
+La cupidité des entreprises et une législation malavisée accablent les jeunes avec un coût de la vie de plus en plus élevé, et la hausse du prix d'une simple pinte dépasse largement le taux d'inflation. Les médias cherchent des boucs émissaires pour la disparition de la vie nocturne en centre-ville, tout en ignorant la cause profonde : sortir en ville devient tout simplement inabordable pour beaucoup.
+
+## Mission ##
+Chez Tap Map, notre mission est triple :
+
+1. **Autonomisation** : Aider les gens à trouver de la bière pas chère
+
+2. **Soutien** : Récompenser les pubs abordables en attirant de nouveaux clients
+
+3. **Exploration** : Encourager les gens à explorer les différents pubs de leur quartier
+
+## Fonctionnalités clés ##
+
+**Découvrir et contribuer** :
+
 Recherchez vos lieux de prédilection et ajoutez-les s'ils manquent. Partagez les prix des meilleures brasseries avec la communauté et tenez-les à jour.
 
-**Naviguez en toute simplicité** : Trouvez facilement l'itinéraire vers votre prochain verre. Plus besoin de deviner, dirigez-vous vers vos bières préférées en toute simplicité.
+**Naviguez facilement** : Trouvez votre prochain verre sans effort. Plus besoin de deviner, naviguez tranquillement vers vos bières préférées.
 
-**Prêt à vous lancer ?** :
-
-Lancez-vous dès maintenant dans la quête de la bière et ne manquez plus jamais les bonnes affaires !
-
-**Besoin d'aide ou de suggestion ?** :
+## Besoin d'aide ou d'une suggestion ? ##
 Nous sommes tout ouïe ! Trinquons ensemble à la découverte de bières à prix exceptionnels ! Consultez notre page [support](./support) pour obtenir nos coordonnées.

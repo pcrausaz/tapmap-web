@@ -23,16 +23,26 @@ We are welcoming feedback from everyone at this time, please contact support to 
 Tap Map is currently in closed Beta while we take on feedback to improve the user experience. The Tap Map official release will follow once we and our beta users are satisfied it is ready for release. 
 
 ### How do I get an account
-Tap Map gives you the option to create a user in the profile settings (tap the avatar icon), using either your email address or phone number to register. The app will guide you through the creation of your account and your first steps with the application. Tap Map also provides an anonymous, account-free version with non-invasive ads to support our development. 
+Tap Map gives you the option to create a user in the profile settings (tap the avatar icon), using your email address. Tap Map gives you the option to register in the profile settings (tap on the avatar icon).
 
 ### How do I get rid of the Ads?
 Tap Map’s basic model is ad-supported which allows us to continue to develop and improve. To remove ads simply create an account and upgrade to the premium subscription model.
 
 ### What platform does Tap Map support?
-Currently we support iOS and iPad OS.
+Currently we support iOS and iPad OS. It runs great on both platform.
+
+### What identity provider does Tap Map support?
+Tap Map  allows for 'Sign in with Apple' and 'Sign in with Google'.
+
+### How do I get help?
+The app is a good place to start, the initial welcome wizard gives us all you need to get started. If you need to review the wizard later, you can access it from your profile view.
+{{< welcome-guide >}}
 
 ### When will Android OS be supported?
 At this time we are focussing our efforts on improving the experience on Apple platforms. Once we are satisfied with the user-experience on these platforms we will start looking at migrating it onto Android. We appreciate your patience.
+
+### What identity provider does Tap Map support?
+Tap Map  allows for 'Sign in with Apple' and 'Sign in with Google'.
 
 ### Does the app supports Dark Mode?
 Yes, Tap Map supports both Light Mode and Dark Mode.

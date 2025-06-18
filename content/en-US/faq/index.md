@@ -23,13 +23,20 @@ Anyone can have access. We reserve the right to stop accepting new beta users if
 Tap Map is currently in closed Beta, while the beta is doing great, we will release our official version once we and our beta users are fully satisfied with the application.
 
 ### How do I get an account
-You can use Tap Map anonymously, but to the cost of always seeing ads. Tap Map gives you the option to create a user in the profile settings (tap on the avatar icon), Tap Map  you options to create an account using various method, the most common are "email" and "phone". The app will guide you throught the creation of your account and your first steps with the application.
+Tap Map gives you the option to create a user in the profile settings (tap the avatar icon), using your email address. Tap Map gives you the option to register in the profile settings (tap on the avatar icon).
 
 ### How do I get rid of the Ads?
 Create an account and purchase a premium subscriptions.
 
 ### What platform does Tap Map support?
-Currently we support only iOS and iPad OS. It runs great on both platform.
+Currently we support iOS and iPad OS. It runs great on both platform.
+
+### What identity provider does Tap Map support?
+Tap Map  allows for 'Sign in with Apple' and 'Sign in with Google'.
+
+### How do I get help?
+The app is a good place to start, the initial welcome wizard gives us all you need to get started. If you need to review the wizard later, you can access it from your profile view.
+{{< welcome-guide >}}
 
 ### When will Android OS be supported?
 This is not known at this time, what is known is that we will first focus on making the Apple platform application awesome before we extend to other platforms.
@@ -47,7 +54,7 @@ We are always modifying the algorithm to ensure the best result, so we are not s
 Yes, all data is encrypted at rest and in transit.
 
 ### Do I need to share my location?
-For better results, you should authorize the application to get access to the location data. By sharing your location with the app, you ensure we can show you place around your location and direct you to it. We do not store location information on the user. 
+For better results, you should authorize the application to get access to the location data. By sharing your location with the app, you ensure we can show you place around your location and direct you to it. We do not store location information on the user.
 
 ### Can I delete my account
 Go to profile settings and select "Delete Account.

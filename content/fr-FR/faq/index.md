@@ -21,7 +21,7 @@ Tout le monde peut y accéder. Nous nous réservons le droit de ne plus accepter
 ### Quand Tap Map sortira-t-il ? Tap Map est actuellement en bêta fermée. Bien que la bêta fonctionne très bien, nous publierons notre version officielle dès que nous et nos utilisateurs serons pleinement satisfaits de l'application.
 
 ### Comment créer un compte ?
-Vous pouvez utiliser Tap Map de manière anonyme, mais au prix de publicités permanentes. Tap Map vous permet de créer un utilisateur dans les paramètres de profil (en appuyant sur l'icône d'avatar). Tap Map vous propose différentes options pour créer un compte, les plus courantes étant l'e-mail et le téléphone. L'application vous guidera tout au long de la création de votre compte et de vos premiers pas.
+Tap Map vous permet de créer un utilisateur dans les paramètres de profil (appuyez sur l'icône d'avatar), en utilisant votre adresse e-mail. Tap Map vous permet également de vous inscrire dans les paramètres de profil (appuyez sur l'icône d'avatar).
 
 ### Comment supprimer les publicités ?
 Créez un compte et souscrivez un abonnement premium.
@@ -29,13 +29,21 @@ Créez un compte et souscrivez un abonnement premium.
 ### Quelles plateformes sont compatibles avec Tap Map ?
 Actuellement, nous ne prenons en charge que les systèmes d'exploitation iOS et iPad. L'application fonctionne parfaitement sur les deux plateformes.
 
+### Quel fournisseur d'identité Tap Map prend-il en charge ?
+Tap Map permet de se connecter avec les identifiants Apple ou Google.
+
+### Comment obtenir de l'aide ?
+L'application est un bon point de départ. L'assistant de bienvenue vous fournit tout le nécessaire pour démarrer. Si vous souhaitez consulter l'assistant ultérieurement, vous pouvez y accéder depuis votre profil.
+{{< welcome-guide >}}
+
 ### Quand le système d'exploitation Android sera-t-il pris en charge ?
 Nous ne le savons pas encore. Nous allons d'abord nous concentrer sur l'optimisation de l'application pour la plateforme Apple avant de l'étendre aux autres plateformes.
 
-### L'application est-elle compatible avec le mode sombre ? Oui, Tap Map est parfaitement compatible avec le mode sombre.
+### L'application est-elle compatible avec le mode sombre ? 
+Oui, Tap Map est parfaitement compatible avec le mode sombre.
 
 ### Quelles langues sont prises en charge par Tap Map ?
-Tap Map est actuellement disponible en anglais (États-Unis), anglais (Royaume-Uni) et français (France). D'autres langues seront ajoutées ultérieurement. Contactez notre équipe d'assistance si vous souhaitez proposer votre traduction dans vos langues préférées.
+Tap Map est actuellement disponible en Anglais (États-Unis), Anglais (Royaume-Uni) et Français (France). D'autres langues seront ajoutées ultérieurement. Contactez notre équipe d'assistance si vous souhaitez proposer votre traduction dans vos langues préférées.
 
 ### Quel est le poids de chaque information ?
 Nous modifions constamment l'algorithme pour garantir un résultat optimal. Nous ne partageons donc pas ces informations pour le moment.

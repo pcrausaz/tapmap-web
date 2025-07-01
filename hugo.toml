@@ -6,6 +6,7 @@ defaultContentLanguage = "en-us"
 
 [params]
     buildYear = 2025
+    background_color_class = "bg-custom"
 
 [languages]
   [languages.en-US]

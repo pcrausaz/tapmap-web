@@ -1,7 +1,7 @@
 +++
 date = '2025-05-22T21:48:13-05:00'
 draft = false
-title = 'Faq'
+title = 'FAQ'
 +++
 
 # Frequently Asked Questions (FAQ)

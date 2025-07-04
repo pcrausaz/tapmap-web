@@ -11,11 +11,13 @@ title = 'FAQ'
 The beta program allows friends, family and other invited users to test the application before its official release and provide feedback to help us improve.
 
 ###  Who can have access to the Beta Program?
-We are welcoming feedback from everyone at this time, please contact support to access our beta program. We reserve the right to stop accepting new beta users if we have the need. [**support page**](https://tapmapapp.org/support).
+Anyone can have access - as long as we have slots available. We reserve the right to stop accepting new beta users if we have the need. 
 
 ### What is that TestFlight application I need to download for the beta.
 *TestFlight* is an online application that is used by developers to distribute and manage their beta program. For more information, please check [https://testflight.apple.com](https://testflight.apple.com)
 
+### I downloaded TestFlight, yet I still do not have access
+If you did not have *TestFlight* already installed, when you first click on the Beta link, you have to go through the TestFlight installation and configuration. Once you are all setup with TestFlight, only then you can use the Beta link to get access to the Tap Map Beta. TL;DR Install TestFlight, then and only then use the Beta link.
 
 ## General FAQ
 

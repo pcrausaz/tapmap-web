@@ -6,9 +6,16 @@ title = 'FAQ'
 
 # Frequently Asked Questions (FAQ)
 
+
 ## Beta Program FAQ
+### Wait! Why a Beta Program?
+The app has been released, yet the beta goes on, we will post new features, bug fixes etc... on the beta line ahead of the store release. You can download the store release at the link below or from the home page.
+{{< downloadapp >}}
+
 ### What is the Beta Program?
-The beta program allows friendly (😉)users to test the application before its official release and provide us with feedback to help improve it.
+The beta program allows friendly (😉)users to test the application before its official release and provide us with feedback to help improve it. You can download the beta at the link below.
+{{< downloadappbeta >}}
+{{< betastamp >}}
 
 ###  Who can have access to the Beta Program?
 Anyone can have access - as long as we have slots available. We reserve the right to stop accepting new beta users if we have the need. 

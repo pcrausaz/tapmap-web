@@ -8,7 +8,6 @@ title = 'Accueil'
 Salut les amateurs de bière et les chasseurs de bonnes affaires ! Bienvenue sur notre application iOS dynamique, conçue pour vous aider à dénicher les meilleures offres de bière en ville. Que vous soyez amateur de bière, économe avisé ou simplement en quête de bons moments, cette application est votre guide.
 
 {{< downloadapp >}}
-{{< betastamp >}}
 {{< buymeacoffee >}}
 
 Les pubs étaient autrefois le pilier social de notre culture et un véritable creuset pour la communauté. Mais ces dernières années, beaucoup d'entre eux se sont vus imposer des prix exorbitants pour accéder à leur bar local.

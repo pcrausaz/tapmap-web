@@ -7,8 +7,16 @@ title = 'FAQ'
 # Foire aux questions (FAQ)
 
 ## FAQ du programme bêta
+
+
+### Attendez ! Pourquoi un programme bêta ?
+L'application est sortie, mais la bêta continue. Nous publierons de nouvelles fonctionnalités, des corrections de bugs, etc. sur la bêta avant la sortie sur la boutique. Vous pouvez télécharger la version sur l'Apple Store via le lien ci-dessous ou depuis la page d'accueil.
+{{< downloadapp >}}
+
 ### Qu'est-ce que le programme bêta ?
-Le programme bêta permet aux utilisateurs (😉) de tester l'application avant sa sortie officielle et de nous faire part de leurs commentaires pour nous aider à l'améliorer.
+Le programme bêta permet aux utilisateurs (😉) de tester l'application avant sa sortie officielle et de nous faire part de leurs commentaires pour nous aider à l'améliorer. Vous pouvez télécharger la version bêta via le lien ci-dessous.
+{{< downloadappbeta >}}
+{{< betastamp >}}
 
 ### Qui peut accéder au programme bêta ?
 Tout le monde peut y accéder, dans la limite des places disponibles. Nous nous réservons le droit de ne plus accepter de nouveaux utilisateurs bêta si nécessaire.

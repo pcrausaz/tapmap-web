@@ -6,6 +6,7 @@ title = 'FAQ'
 
 # Frequently Asked Questions (FAQ)
 
+
 ## Beta Program FAQ
 ### Wait! Why a Beta Program?
 The app has been released, yet the beta goes on, we will post new features, bug fixes etc... on the beta line ahead of the store release. You can download the store release at the link below or from the home page.

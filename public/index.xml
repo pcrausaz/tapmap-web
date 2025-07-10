@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Tap Map</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Tap Map</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 21:48:43 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EULA</title>
+      <link>http://localhost:1313/eula/</link>
+      <pubDate>Thu, 22 May 2025 21:48:43 -0500</pubDate>
+      <guid>http://localhost:1313/eula/</guid>
+      <description>&lt;h2 id=&#34;1-term-of-use&#34;&gt;1. Term of Use&lt;/h2&gt;&#xA;&lt;p&gt;EULA: &lt;a href=&#34;https://www.apple.com/legal/internet-services/itunes/dev/stdeula/&#34;&gt;https://www.apple.com/legal/internet-services/itunes/dev/stdeula/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;10-contact-information&#34;&gt;10. Contact Information&lt;/h2&gt;&#xA;&lt;p&gt;For questions or concerns regarding this Agreement, please contact us at:&#xA;Email: &lt;a href=&#34;mailto:support@tapmapapp.org&#34;&gt;support@tapmapapp.org&lt;/a&gt;&#xA;Website: &lt;a href=&#34;http://tapmapapp.org/&#34;&gt;http://tapmapapp.org/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Thu, 22 May 2025 21:48:32 -0500</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;Welcome to &lt;em&gt;Tap Map&lt;/em&gt;, operated by &lt;a href=&#34;http://tapmapapp.org&#34;&gt;&lt;strong&gt;tapmapapp.org&lt;/strong&gt;&lt;/a&gt;. Your privacy is important to us.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-information-we-collect&#34;&gt;1. Information We Collect&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Authentication Data:&lt;/strong&gt; Username, email, and password for account creation and authentication.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Location Data:&lt;/strong&gt; We collect location information for the place your create. We use your location to position and route you to your next drink. We do not store any location information in relation to users.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-how-we-use-your-information&#34;&gt;2. How We Use Your Information&lt;/h2&gt;&#xA;&lt;p&gt;We use the collected data to match users based on their preferences, travel plans, and location.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Support</title>
+      <link>http://localhost:1313/support/</link>
+      <pubDate>Thu, 22 May 2025 21:48:21 -0500</pubDate>
+      <guid>http://localhost:1313/support/</guid>
+      <description>&lt;p&gt;For assistance, do not hesitate to contact our support team at the information provided below.&#xA;We encourage you to consult our list of &lt;a href=&#34;https://tapmapapp.org/faq&#34;&gt;&lt;strong&gt;Frequently Asked Questions (FAQ)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-support&#34;&gt;Contact Support&lt;/h2&gt;&#xA;&lt;p&gt;For all other questions, we encourage your to contact our &lt;a href=&#34;mailto:support@tapmapapp.org&#34;&gt;&lt;strong&gt;support&lt;/strong&gt;&lt;/a&gt; team via email at: &lt;a href=&#34;mailto:support@tapmapapp.org&#34;&gt;&lt;strong&gt;support@tapmapapp.org&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>http://localhost:1313/faq/</link>
+      <pubDate>Thu, 22 May 2025 21:48:13 -0500</pubDate>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>&lt;h1 id=&#34;frequently-asked-questions-faq&#34;&gt;Frequently Asked Questions (FAQ)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;beta-program-faq&#34;&gt;Beta Program FAQ&lt;/h2&gt;&#xA;&lt;h3 id=&#34;wait-why-a-beta-program&#34;&gt;Wait! Why a Beta Program?&lt;/h3&gt;&#xA;&lt;p&gt;The app has been released, yet the beta goes on, we will post new features, bug fixes etc&amp;hellip; on the beta line ahead of the store release. You can download the store release at the link below or from the home page.&#xA;&lt;style&gt;&#xA;    .app-store-badge {&#xA;        width: 150px;  &#xA;        height: auto;  &#xA;        display: block;  &#xA;        margin: 20px auto;  &#xA;    }&#xA;&lt;/style&gt;&#xA;    &#xA;&lt;p style=&#34;color: red;&#34;&gt; &#xA;    &lt;a href=&#34;https://apps.apple.com/us/app/tap-map-app/id6745830369&#34; target=&#34;_blank&#34;&gt;&#xA;            &lt;img src=&#34;http://localhost:1313/images/app-store-badge.svg&#34; alt=&#34;Download on the App Store&#34; class=&#34;app-store-badge&#34;&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

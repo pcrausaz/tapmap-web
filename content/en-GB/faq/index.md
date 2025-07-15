@@ -6,27 +6,11 @@ title = 'FAQ'
 
 # Frequently Asked Questions (FAQ)
 
-
-## Beta Program FAQ
-### Wait! Why a Beta Program?
-The app has been released, yet the beta goes on, we will post new features, bug fixes etc... on the beta line ahead of the store release. You can download the store release at the link below or from the home page.
-{{< downloadapp >}}
-
-### What is the Beta Program?
-The beta program allows friendly (😉)users to test the application before its official release and provide us with feedback to help improve it. You can download the beta at the link below.
-{{< downloadappbeta >}}
-{{< betastamp >}}
-
-### What is that TestFlight application I need to download for the beta.
-*TestFlight* is an online application that is used by developers to distribute and manage their beta program. For more information, please check [https://testflight.apple.com](https://testflight.apple.com)
-
-### I downloaded TestFlight, yet I still do not have access
-If you did not have *TestFlight* already installed, when you first click on the Beta link, you have to go through the TestFlight installation and configuration. Once you are all setup with TestFlight, only then you can use the Beta link to get access to the Tap Map Beta. TL;DR Install TestFlight, then and only then use the Beta link.
-
 ## General FAQ
 
 ### When will Tap Map release?
-Tap Map is currently in closed Beta while we take on feedback to improve the user experience. The Tap Map official release will follow once we and our beta users are satisfied it is ready for release. 
+Tap Map has been released and can be downloaded from the Apple App Store. 
+{{< downloadapp >}}
 
 ### How do I get an account
 Tap Map gives you the option to create a user in the profile settings (tap the avatar icon), using your email address. Tap Map gives you the option to register in the profile settings (tap on the avatar icon).
@@ -71,3 +55,19 @@ Go to profile settings and select "Delete Account".
 ### I have more questions
 For all other questions, we encourage you to contact our [**support**](mailto:support@tapmapapp.org) team  using the information in the[**support page**](https://tapmapapp.org/support).
 
+
+## Beta Program FAQ
+### Wait! Why a Beta Program?
+The app has been released, yet the beta goes on, we will post new features, bug fixes etc... on the beta line ahead of the store release. You can download the store release at the link below or from the home page.
+{{< downloadapp >}}
+
+### What is the Beta Program?
+The beta program allows friendly (😉)users to test the application before its official release and provide us with feedback to help improve it. You can download the beta at the link below.
+{{< downloadappbeta >}}
+{{< betastamp >}}
+
+### What is that TestFlight application I need to download for the beta.
+*TestFlight* is an online application that is used by developers to distribute and manage their beta program. For more information, please check [https://testflight.apple.com](https://testflight.apple.com)
+
+### I downloaded TestFlight, yet I still do not have access
+If you did not have *TestFlight* already installed, when you first click on the Beta link, you have to go through the TestFlight installation and configuration. Once you are all setup with TestFlight, only then you can use the Beta link to get access to the Tap Map Beta. TL;DR Install TestFlight, then and only then use the Beta link.

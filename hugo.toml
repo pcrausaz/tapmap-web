@@ -41,7 +41,7 @@ defaultContentLanguage = "en-us"
 
 [[languages.fr-FR.menu.main]]
   identifier = "home"
-  name = "Acceuil"
+  name = "Accueil"
   url = "/fr-FR"
   weight = 1
 

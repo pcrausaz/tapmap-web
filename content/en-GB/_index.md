@@ -5,7 +5,7 @@ title = 'Home'
 +++
 
 ## Cheers to Tap Map ##
-Hey there, beer enthusiasts and bargain hunters! Welcome to our vibrant iOS app designed to help you uncover the hottest beer deals in town. Whether you're a beer aficionado, a savvy saver, or just someone looking for a good time, this app is your go-to guide.
+Hey there, beer enthusiasts and bargain hunters! Welcome to our vibrant mobile app designed to help you uncover the hottest beer deals in town. Whether you're a beer aficionado, a savvy saver, or just someone looking for a good time, this app is your go-to guide.
 
 {{< downloadapp >}}
 {{< buymeacoffee >}}

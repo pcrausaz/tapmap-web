@@ -1,14 +1,24 @@
 <style>
-    .app-store-badge {
-        width: 150px; /* Adjust size */
-        height: auto; /* Maintain aspect ratio */
-        display: block; /* Ensures it appears on its own line */
-        margin: 20px auto; /* Centers the badge */
+    .app-download-badges {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        justify-content: center;
+        align-items: center;
+        margin: 20px auto;
+    }
+    .app-download-badges img {
+        height: 50px;
+        width: auto;
+        display: block;
     }
 </style>
-    
-<p style="color: red;"> 
+
+<div class="app-download-badges">
     <a href="https://apps.apple.com/us/app/tap-map-app/id6745830369" target="_blank">
-            <img src="/images/app-store-badge.svg" alt="Download on the App Store" class="app-store-badge">
+        <img src="/images/app-store-badge.svg" alt="Download on the App Store">
     </a>
-</p>
+    <a href="https://play.google.com/store/apps/details?id=com.askpascal.tinnies" target="_blank">
+        <img src="/google-play-badge.svg" alt="Get it on Google Play">
+    </a>
+</div>

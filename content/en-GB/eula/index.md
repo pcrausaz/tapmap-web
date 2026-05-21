@@ -4,8 +4,13 @@ draft = false
 title = 'EULA'
 +++
 
-## 1. Term of Use
+## 1. Terms of Use
+
+### iOS version
 EULA: [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+### Android version
+EULA: [https://play.google.com/about/play-terms/](https://play.google.com/about/play-terms/)
 
 
 

@@ -6,7 +6,12 @@ title = 'CLUF'
 
 
 ## 1. Contrat de Licence Utilisateur Final
-EULA: [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+### Version iOS
+CLUF : [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+### Version Android
+CLUF : [https://play.google.com/about/play-terms/](https://play.google.com/about/play-terms/)
 
 
 ## 10. Coordonnées

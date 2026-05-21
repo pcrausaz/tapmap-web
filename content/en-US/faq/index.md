@@ -9,7 +9,7 @@ title = 'FAQ'
 ## General FAQ
 
 ### When will Tap Map release?
-Tap Map has been released and can be downloaded from the Apple App Store. 
+Tap Map has been released and can be downloaded from the Apple App Store and Google Play.
 {{< downloadapp >}}
 
 ### How do I get an account
@@ -19,7 +19,7 @@ Tap Map gives you the option to create a user in the profile settings (tap the a
 Create an account and purchase a premium subscriptions.
 
 ### What platform does Tap Map support?
-Currently we support iOS and iPad OS. It runs great on both platform.
+Tap Map runs on iOS, iPad OS, and Android. We support recent versions of each platform.
 
 ### What identity provider does Tap Map support?
 Tap Map  allows for 'Sign in with Apple' and 'Sign in with Google'.
@@ -28,8 +28,9 @@ Tap Map  allows for 'Sign in with Apple' and 'Sign in with Google'.
 The app is a good place to start, the initial welcome wizard gives us all you need to get started. If you need to review the wizard later, you can access it from your profile view.
 {{< welcome-guide >}}
 
-### When will Android OS be supported?
-This is not known at this time, what is known is that we will first focus on making the Apple platform application awesome before we extend to other platforms.
+### How do I get Tap Map on Android?
+Tap Map is available on Google Play.
+{{< downloadapp >}}
 
 ### Does the app supports Dark Mode?
 Yes, Tap Map looks great with Dark Mode.
@@ -51,24 +52,4 @@ Go to profile settings and select "Delete Account.
 
 ### I have more questions
 For all other questions, we encourage your to contact our [**support**](mailto:support@tapmapapp.org) team  using the information in the[**support page**](https://tapmapapp.org/support).
-
-## Beta Program FAQ
-### Wait! Why a Beta Program?
-The app has been released, yet the beta goes on, we will post new features, bug fixes etc... on the beta line ahead of the store release. You can download the store release at the link below or from the home page.
-{{< downloadapp >}}
-
-### What is the Beta Program?
-The beta program allows friendly (😉)users to test the application before its official release and provide us with feedback to help improve it. You can download the beta at the link below.
-{{< downloadappbeta >}}
-{{< betastamp >}}
-
-###  Who can have access to the Beta Program?
-Anyone can have access - as long as we have slots available. We reserve the right to stop accepting new beta users if we have the need. 
-
-### What is that TestFlight application I need to download for the beta.
-*TestFlight* helps developers distributing and managing their beta application. For more details, please check [https://testflight.apple.com](https://testflight.apple.com)
-
-### I downloaded TestFlight, yet I still do not have access
-If you did not have *TestFlight* already installed, when you first click on the Beta link, you have to go through the TestFlight installation and configuration. Once you are all setup with TestFlight, only then you can use the Beta link to get access to the Tap Map Beta. TL;DR Install TestFlight, then and only then use the Beta link.
-
 
